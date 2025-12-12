@@ -1,4 +1,4 @@
-name: Emby-crack
+name: Emby-Crack
 desc: 解锁 emby 会员
 # author: @opoet
 
@@ -16,5 +16,5 @@ http:
  
 script-providers:
   EmbyCrack:
-    url: https://raw.githubusercontent.com/opoet/proxy-tool-annex/main/plugin/script/emby-crack.js
+    url: https://fastly.jsdelivr.net/gh/opoet/proxy-tool-annex@main/plugin/script/emby-crack.js
     interval: 86400

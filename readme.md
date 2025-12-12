@@ -7,11 +7,11 @@
 Loon:
 
 ```url
-https://github.com/opoet/proxy-tool-annex/raw/main/plugin/loon/emby-crack.plugin
+https://fastly.jsdelivr.net/gh/opoet/proxy-tool-annex@main/plugin/loon/emby-crack.plugin
 ```
 
 Stash:
 
 ```url
-https://github.com/opoet/proxy-tool-annex/raw/main/plugin/stash/emby-crack.stoverride
+https://fastly.jsdelivr.net/gh/opoet/proxy-tool-annex@main/plugin/stash/emby-crack.stoverride
 ```

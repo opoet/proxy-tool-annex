@@ -1,11 +1,11 @@
-#!name= Emby-crack
+#!name= Emby-Crack
 #!desc= 解锁 emby 会员
 #!author= @opoet
 #!homepage= https://github.com/opoet/proxy-tool-annex
 #!icon= https://github.com/Koolson/Qure/raw/master/IconSet/Color/Emby.png
 
 [script]
-http-response ^https?://mb3admin\.com/.* script-path=https://raw.githubusercontent.com/opoet/proxy-tool-annex/main/plugin/script/emby-crack.js, requires-body=true, requires-header=true, tag=emby-crack
+http-response ^https?://mb3admin\.com/.* script-path=https://fastly.jsdelivr.net/gh/opoet/proxy-tool-annex@main/plugin/script/emby-crack.js, requires-body=true, requires-header=true, tag=emby-crack
 
 [mitm]
 hostname = mb3admin.com
